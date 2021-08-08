@@ -1,0 +1,13 @@
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\EjerciciosDevC++\L2\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
